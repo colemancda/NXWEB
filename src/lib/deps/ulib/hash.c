@@ -67,7 +67,7 @@
 #endif
 
 #include <string.h>
-#include "deps/ulib/hash.h"
+#include "hash.h"
 
 /*
  * My best guess at if you are big-endian or little-endian.  This may
